@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutsWidgets</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addWaypoint">Add Waypoint</string>
+    <string name="waypointName">ASU-Poly</string>
+    <string name="waypointAddress">1223 West Oak Street</string>
+    <string name="waypointCategory">Category: Campuses</string>
+    <string name="waypointName2">ASU-Brickyard</string>
+    <string name="waypointAddress2">1223 West Oak Street</string>
+    <string name="waypointCategory2">Category: Campuses</string>
+    <string name="title_activity_individual_waypoint">IndividualWaypoint</string>
+
+</resources>
