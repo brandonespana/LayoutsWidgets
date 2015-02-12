@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.asu.bsse.biespana.layoutswidgets" >
+    package="edu.asu.bsse.biespana.lab5uiadapters" >
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainActivity"
+            android:name="edu.asu.bsse.biespana.lab5uiadapters.MainActivity"
             android:label="@string/title_activity_main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,9 +17,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".IndividualWaypoint"
+            android:name="edu.asu.bsse.biespana.lab5uiadapters.IndividualWaypoint"
             android:label="@string/title_activity_individual_waypoint" >
         </activity>
-    </application>
 
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>

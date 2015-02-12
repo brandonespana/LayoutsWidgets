@@ -14,4 +14,6 @@
     <string name="waypointCategory2">Category: Campuses</string>
     <string name="title_activity_individual_waypoint">IndividualWaypoint</string>
 
+    <string name="url_string">http://10.202.46.124:8080/</string>
+
 </resources>
